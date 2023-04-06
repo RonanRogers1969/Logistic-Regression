@@ -1,0 +1,393 @@
+﻿OBJECTID,Planning_Authority,Tier,Planning_Reference,ITM_X_Coordinate,ITM_Y_Coordinate,Planning_Permission__Units_Perm,Units_Completed_to_Date,Units_Under_Construction,Activity_On_Site,Units_Permitted_But_Not_Commenc,Planning_Search_URL
+1,Dublin City Council,1,2792/14,714587,734357,15,0,15,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+2,Dublin City Council,1,2078/11,713809,734563,25,14,11,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+3,Dublin City Council,1,3486/17,721878,741034,88,0,43,Y,45,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+4,Dublin City Council,1,3117/16,722691,741211,75,0,75,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+5,Dublin City Council,1,3802/14,722549,741200,99,65,24,Y,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+6,Dublin City Council,1,2610/16,722622,741071,113,45,53,Y,15,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+7,Dublin City Council,1,3776/15,722623,740834,84,0,84,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+8,Dublin City Council,1,2114/15,721729,741213,71,53,18,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+9,Dublin City Council,1,2401/13,720015,736064,17,0,17,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+10,Dublin City Council,1,2651/14,719006,736775,18,10,8,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+11,Dublin City Council,1,2945/15,716529,736523,39,0,39,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+12,Dublin City Council,1,2991/15,716856,736739,137,31,106,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+13,Dublin City Council,1,4242/15,720135,737584,75,0,75,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+14,Dublin City Council,1,4105/15,716788,737304,97,6,15,Y,76,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+15,Dublin City Council,1,2679/16,721878,741224,93,58,25,Y,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+16,Dublin City Council,1,3604/12,711702,737654,208,0,73,Y,135,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+17,Dublin City Council,1,3021/14,715491,739140,42,0,42,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+18,Dublin City Council,1,3069/14,712270,737583,243,147,11,Y,85,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+19,Dublin City Council,1,2237/15,713259,737082,24,0,13,Y,11,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+20,Dublin City Council,1,2217/15,711847,737658,71,0,71,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+21,Dublin City Council,1,4387/03 ,713938,740806,128,0,128,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+22,Dublin City Council,1,2414/16,714213,740784,103,0,103,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+23,Dublin City Council,1,2593/14,712773,734171,163,59,93,Y,11,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+24,Dublin City Council,1,3632/16,712773,734171,13,0,13,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+25,Dublin City Council,1,3871/14,714063,730393,51,31,20,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+26,Dublin City Council,1,4214/16,714706,733644,12,0,12,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+27,Dublin City Council,1,3326/16,715329,730068,209,38,114,Y,57,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+28,Dublin City Council,1,3012/14,715780,730013,36,0,13,Y,23,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+29,Dublin City Council,1,3664/14,716932,733035,12,0,12,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+30,Dublin City Council,1,4015/09,717662,732823,315,0,315,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+31,Dublin City Council,1,3386/16,717820,732872,215,0,215,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+32,Dublin City Council,1,3248/14,716848,732072,13,1,12,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+33,Dublin City Council,1,4798/07,717728,732723,86,0,86,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+34,Dublin City Council,1,DSDZ2546/15,717739,734191,181,0,181,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+35,Dublin City Council,1,DSDZ2663/16,717697,734166,28,0,28,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+36,Dublin City Council,1,DSDZ3777/15,717674,734122,40,0,40,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+37,Dublin City Council,1,DSDZ3111/16,717589,734231,72,0,72,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+38,Dublin City Council,1,DSDZ3197/16,717500,734142,122,0,122,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+39,Dublin City Council,1,4443/16,715724,732654,184,0,79,Y,105,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+40,Dublin City Council,1,2128/17,715290,730163,22,0,22,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+41,Dublin City Council,1,2870/17,714221,731511,197,0,197,Y,0,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+42,Dublin City Council,1,2313/12,714585,735616,86,0,0,N,86,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+43,Dublin City Council,1,2757/13,716086,735725,55,0,0,N,55,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+44,Dublin City Council,1,2863/11,716765,735004,115,0,0,N,115,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+45,Dublin City Council,1,2402/14,714876,736326,28,0,0,N,28,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+46,Dublin City Council,1,3280/15,714335,735624,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+47,Dublin City Council,1,2882/15,716748,735269,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+48,Dublin City Council,1,DSDZ3367/15,717452,734746,165,0,0,N,165,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+49,Dublin City Council,1,DSDZ2496/17,717665,734565,171,0,0,N,171,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+50,Dublin City Council,1,4313/15,714522,735808,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+51,Dublin City Council,1,DSDZ3552/16,717601,734485,124,0,0,N,124,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+52,Dublin City Council,1,3152/17,717445,734862,14,0,0,N,14,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+53,Dublin City Council,1,DSDZ3357/17,717569,734692,360,0,0,N,360,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+54,Dublin City Council,1,DSDZ3779/17,717748,734510,420,0,0,N,420,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+55,Dublin City Council,1,2648/17,723040,741197,117,0,0,N,117,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+56,Dublin City Council,1,SHD0003/17,720284,737441,536,0,0,N,536,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+57,Dublin City Council,1,2903/16,722671,741190,45,0,0,N,45,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+58,Dublin City Council,1,4016/16,722342,741371,234,0,0,N,234,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+59,Dublin City Council,1,4266/16,722171,741410,132,0,0,N,132,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+60,Dublin City Council,1,4101/16,722831,741177,23,0,0,N,23,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+61,Dublin City Council,1,2016/15,722686,740679,17,0,0,N,17,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+62,Dublin City Council,1,5470/08,723050,740891,75,0,0,N,75,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+63,Dublin City Council,1,2670/14,721995,740668,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+64,Dublin City Council,1,3269/10,716787,738089,358,0,0,N,358,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+65,Dublin City Council,1,3838/10,718632,736248,19,15,0,N,4,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+66,Dublin City Council,1,3747/15,719526,737144,13,0,0,N,13,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+67,Dublin City Council,1,2293/15,722192,737782,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+68,Dublin City Council,1,3859/14,719838,736985,19,0,0,N,19,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+69,Dublin City Council,1,3245/15,719469,738964,65,0,0,N,65,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+70,Dublin City Council,1,2347/15,717492,737167,101,0,0,N,101,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+71,Dublin City Council,1,2478/17,722342,741371,12,0,0,N,12,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+72,Dublin City Council,1,3634/16,723040,740695,139,0,0,N,139,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+73,Dublin City Council,1,3973/16,721365,738450,71,0,0,N,71,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+74,Dublin City Council,1,3098/17,721191,736655,13,0,0,N,13,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+75,Dublin City Council,1,3600/17,720014,736063,17,0,0,N,17,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+76,Dublin City Council,1,3402/13,713906,737480,45,0,0,N,45,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+77,Dublin City Council,1,4057/15,713870,739477,14,0,0,N,14,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+78,Dublin City Council,1,3665/15,713801,732872,131,0,0,N,131,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+79,Dublin City Council,1,3666/15,711198,737560,316,0,0,N,316,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+80,Dublin City Council,1,2546/16,714148,740679,24,0,0,N,24,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+81,Dublin City Council,1,3420/16,713847,736532,19,0,0,N,19,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+82,Dublin City Council,1,4360/17,716306,739003,134,0,0,N,134,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+83,Dublin City Council,1,2458/17,713994,737692,68,0,0,N,68,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+84,Dublin City Council,1,SHD0002/17,713585,736023,420,0,0,N,420,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+85,Dublin City Council,1,3359/14,710022,734388,18,0,0,N,18,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+86,Dublin City Council,1,6705/07,713020,733685,43,0,0,N,43,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+87,Dublin City Council,1,2744/14,714052,733595,12,0,0,N,12,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+88,Dublin City Council,1,2571/15,711228,731639,61,0,0,N,61,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+89,Dublin City Council,1,3051/15,712542,733073,20,0,0,N,20,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+90,Dublin City Council,1,3855/09,713969,733757,28,0,0,N,28,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+91,Dublin City Council,1,3618/15,713801,732872,12,0,0,N,12,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+92,Dublin City Council,1,4243/08,711848,731002,29,0,0,N,29,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+93,Dublin City Council,1,2732/16,712515,734300,34,0,0,N,34,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+94,Dublin City Council,1,4179/15,713068,733585,13,0,0,N,13,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+95,Dublin City Council,1,4244/15,710922,732047,338,0,0,N,338,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+96,Dublin City Council,1,3635/16,711893,733499,17,0,0,N,17,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+97,Dublin City Council,1,3517/16,708074,732597,17,0,0,N,17,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+98,Dublin City Council,1,3713/16,714758,732109,18,0,0,N,18,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+99,Dublin City Council,1,2158/17,710340,732272,77,0,0,N,77,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+100,Dublin City Council,1,2438/17,710922,732047,23,0,0,N,23,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+101,Dublin City Council,1,3086/17,714016,733213,39,0,0,N,39,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+102,Dublin City Council,1,2875/17,710922,732047,56,0,0,N,56,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+103,Dublin City Council,1,2326/17,711668,731755,14,0,0,N,14,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+104,Dublin City Council,1,2850/17,712832,734073,241,0,0,N,241,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+105,Dublin City Council,1,2869/17,709939,734121,171,0,0,N,171,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+106,Dublin City Council,1,3335/17,714905,733300,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+107,Dublin City Council,1,3671/17,718398,732059,20,0,0,N,20,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+108,Dublin City Council,1,3608/17,719784,730637,69,0,0,N,69,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+109,Dublin City Council,1,3792/13,714049,731563,32,0,0,N,32,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+110,Dublin City Council,1,2308/16,717439,730817,97,0,0,N,97,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+111,Dublin City Council,1,3766/14,715663,731427,16,0,0,N,16,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+112,Dublin City Council,1,2710/14,714456,730963,36,0,0,N,36,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+113,Dublin City Council,1,3609/16,714456,730963,30,0,0,N,30,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+114,Dublin City Council,1,2016/13,719012,732546,25,0,0,N,25,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+115,Dublin City Council,1,3128/14,717710,732361,11,0,0,N,11,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+116,Dublin City Council,1,2792/15,717076,732789,12,0,0,N,12,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+117,Dublin City Council,1,DSDZ3796/14,717404,733815,41,0,0,N,41,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+118,Dublin City Council,1,3052/14,716693,733322,11,0,0,N,11,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+119,Dublin City Council,1,2158/15,715780,733722,14,0,0,N,14,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+120,Dublin City Council,1,2186/15,714787,732005,156,0,0,N,156,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+121,Dublin City Council,1,3169/15,716064,732772,16,0,0,N,16,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+122,Dublin City Council,1,2992/15,717633,733577,10,0,0,N,10,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+123,Dublin City Council,1,DSDZ2041/17,717070,734167,56,0,0,N,56,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+124,Dublin City Council,1,2698/16,716730,732340,14,0,0,N,14,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+125,Dublin City Council,1,2554/16,716777,732327,16,0,0,N,16,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+126,Dublin City Council,1,DSDZ2042/17,716970,734250,100,0,0,N,100,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+127,Dublin City Council,1,3963/16,715426,731464,14,0,0,N,14,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+128,Dublin City Council,1,4280/16,715300,733789,65,0,0,N,65,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+129,Dublin City Council,1,2477/17,717431,730899,20,0,0,N,20,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+130,Dublin City Council,1,2707/17,714022,729953,39,0,0,N,39,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+131,Dublin City Council,1,4459/16,718101,730678,90,0,0,N,90,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+132,Dublin City Council,1,2952/17,716630,733100,25,0,0,N,25,http://www.dublincity.ie/swiftlg/apas/run/wphappcriteria.display
+133,Dun Laoghaire-Rathdown,1,D15A/0600 D14A/0338 D04A/0327/E1 D16A/0483 ,721541,723696,57,34,23,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+134,Dun Laoghaire-Rathdown,1,D08A/1379/E D09A/0908/E D17A/0445,723921,727594,1018,430,96,Y,492,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+135,Dun Laoghaire-Rathdown,1,D06A/0927/E  D16A/0696 ,723734,727239,919,642,233,Y,44,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+136,Dun Laoghaire-Rathdown,1,D13A/0370  D15A/0463 D16A0482,714998,728217,47,7,34,Y,6,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+137,Dun Laoghaire-Rathdown,1,D13A/0190  D16A/0650,719457,724239,46,18,28,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+138,Dun Laoghaire-Rathdown,1,D13A/0683,724960,722357,58,47,11,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+139,Dun Laoghaire-Rathdown,1,D11A/0191 D14A/0502   ,716331,725569,69,24,10,Y,35,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+140,Dun Laoghaire-Rathdown,1,D07A/0131/E D12A/0194,718864,726750,68,0,68,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+141,Dun Laoghaire-Rathdown,1,D13A/0355,724388,728596,26,0,26,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+142,Dun Laoghaire-Rathdown,1,D06A/1510/E D14A/0001,717866,729215,202,89,113,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+143,Dun Laoghaire-Rathdown,1,D10A/0716/E,720147,722700,68,34,34,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+144,Dun Laoghaire-Rathdown,1,D15A/0199   D11A/0595/E,717682,729180,48,25,23,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+145,Dun Laoghaire-Rathdown,1,D14A/0260,726338,726515,18,8,10,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+146,Dun Laoghaire-Rathdown,1,D14A/0692,716159,725608,21,20,1,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+147,Dun Laoghaire-Rathdown,1,D14A/0515,718618,725461,101,89,12,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+148,Dun Laoghaire-Rathdown,1,D14A/0033,725599,726116,22,16,6,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+149,Dun Laoghaire-Rathdown,1,D08A/1028/E,724771,725793,29,11,18,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+150,Dun Laoghaire-Rathdown,1,   D14A/0413,722306,726380,10,8,2,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+151,Dun Laoghaire-Rathdown,1,D14A/0522,718457,727624,48,26,22,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+152,Dun Laoghaire-Rathdown,1,D15A/0262,723874,728829,14,0,14,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+153,Dun Laoghaire-Rathdown,1,D14A/0545,719549,729245,18,0,18,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+154,Dun Laoghaire-Rathdown,1,D16A/0487 D15A/0850 D13A/0498 D12A/0098,718233,728761,75,47,22,Y,6,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+155,Dun Laoghaire-Rathdown,1,D16A/0960 D13A/0689 D16A/0821,718403,728691,120,30,20,Y,70,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+156,Dun Laoghaire-Rathdown,1,D14A/0731,722943,725391,17,2,15,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+157,Dun Laoghaire-Rathdown,1,D13A/0285 D15A/0501 ,721282,724980,100,0,46,Y,54,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+158,Dun Laoghaire-Rathdown,1,D15A/0191,717035,729912,54,29,17,Y,8,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+159,Dun Laoghaire-Rathdown,1,D13A/0490,717270,728342,30,0,30,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+160,Dun Laoghaire-Rathdown,1,D13A/0312,721545,728390,20,0,20,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+161,Dun Laoghaire-Rathdown,1,D14A/0618,725011,727553,10,0,10,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+162,Dun Laoghaire-Rathdown,1,D14A/0765,721208,723311,28,0,28,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+163,Dun Laoghaire-Rathdown,1,D15A/0081 D16A/0723 ,716725,728447,273,0,89,Y,184,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+164,Dun Laoghaire-Rathdown,1,D15A/0405 D16A/0298 D17A/0071,717387,727797,88,0,87,Y,1,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+165,Dun Laoghaire-Rathdown,1,D15A/0347,722700,727347,29,0,29,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+166,Dun Laoghaire-Rathdown,1,D15A/0443,721010,723160,31,0,28,Y,3,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+167,Dun Laoghaire-Rathdown,1,D15A/0247,719875,724675,410,79,106,Y,225,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+168,Dun Laoghaire-Rathdown,1,D16A/0187,718402,727599,19,0,8,Y,11,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+169,Dun Laoghaire-Rathdown,1,D15A/0675,721844,726113,13,1,12,Y,0,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+170,Dun Laoghaire-Rathdown,1,D16A/0747,723401,727873,15,0,8,Y,7,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+171,Dun Laoghaire-Rathdown,1,D07A/1495 ,726484,719544,348,0,0,N,348,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+172,Dun Laoghaire-Rathdown,1,D10A/0591/E,720202,729371,97,0,0,N,97,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+173,Dun Laoghaire-Rathdown,1,D08A/0245/E,721872,726376,30,0,0,N,30,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+174,Dun Laoghaire-Rathdown,1,D07A/0161/E ,722618,724346,158,0,0,N,158,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+175,Dun Laoghaire-Rathdown,1,D09A/0116/E,721625,726378,22,0,0,N,22,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+176,Dun Laoghaire-Rathdown,1,D06A/1588/E,717318,727134,47,0,0,N,47,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+177,Dun Laoghaire-Rathdown,1,D14A/0843,718177,725734,10,0,0,N,10,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+178,Dun Laoghaire-Rathdown,1,D10A/0026/E,720852,723220,139,0,0,N,139,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+179,Dun Laoghaire-Rathdown,1,D15A/0265,721641,728087,20,0,0,N,20,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+180,Dun Laoghaire-Rathdown,1,D15A/0403,724034,721758,10,0,0,N,10,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+181,Dun Laoghaire-Rathdown,1,D14A/0803,724640,727649,10,0,0,N,10,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+182,Dun Laoghaire-Rathdown,1,D10A/0335/E,725854,722522,14,0,0,N,14,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+183,Dun Laoghaire-Rathdown,1,D15A/0036,721944,728605,48,0,0,N,48,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+184,Dun Laoghaire-Rathdown,1,D15A/0121,719227,728807,48,0,0,N,48,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+185,Dun Laoghaire-Rathdown,1,D15A/0406 D17A/1062,721515,723412,75,0,0,N,75,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+186,Dun Laoghaire-Rathdown,1,D15A/0395,722908,725455,19,0,0,N,19,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+187,Dun Laoghaire-Rathdown,1,D15A/0421,719419,728688,10,0,0,N,10,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+188,Dun Laoghaire-Rathdown,1,D16A/0158,719420,726551,147,0,0,N,147,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+189,Dun Laoghaire-Rathdown,1,D15A/0622,721826,726307,22,0,0,N,22,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+190,Dun Laoghaire-Rathdown,1,D16A/0090,720300,722529,46,0,0,N,46,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+191,Dun Laoghaire-Rathdown,1,D16A/0111,724251,725536,14,0,0,N,14,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+192,Dun Laoghaire-Rathdown,1,D16A/0343,723557,725947,48,0,0,N,48,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+193,Dun Laoghaire-Rathdown,1,D15A/0839,721307,725944,28,0,0,N,28,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+194,Dun Laoghaire-Rathdown,1,D16A/0760,724091,728880,13,0,0,N,13,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+195,Dun Laoghaire-Rathdown,1,D16A/0393,718415,725165,56,0,0,N,56,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+196,Dun Laoghaire-Rathdown,1,D16A/0511,718747,725253,243,0,0,N,243,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+197,Dun Laoghaire-Rathdown,1,D16A/0586,719943,722846,29,0,0,N,29,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+198,Dun Laoghaire-Rathdown,1,D16A/0465,719586,728357,63,0,0,N,63,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+199,Dun Laoghaire-Rathdown,1,D15A/0840,725278,722813,60,0,0,N,60,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+200,Dun Laoghaire-Rathdown,1,D16A/0260,722068,724377,46,0,0,N,46,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+201,Dun Laoghaire-Rathdown,1,D16A/0818,717999,727761,120,0,0,N,120,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+202,Dun Laoghaire-Rathdown,1,D16A/0547,719282,725262,69,0,0,N,69,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+203,Dun Laoghaire-Rathdown,1,D17A/0165,718951,724651,43,0,0,N,43,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+204,Dun Laoghaire-Rathdown,1,D16A/0548,724283,728693,59,0,0,N,59,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+205,Dun Laoghaire-Rathdown,1,D16A/0669,722808,727399,11,0,0,N,11,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+206,Dun Laoghaire-Rathdown,1,D16A/0863,715645,728426,27,0,0,N,27,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+207,Dun Laoghaire-Rathdown,1,D16A/0904,721273,726799,48,0,0,N,48,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+208,Dun Laoghaire-Rathdown,1,D16A/0987,718045,730599,1,0,0,N,1,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+209,Dun Laoghaire-Rathdown,1,D17A/0137,721915,729196,51,0,0,N,51,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+210,Dun Laoghaire-Rathdown,1,ABP-300520-17,720272,728003,103,0,0,N,103,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+211,Dun Laoghaire-Rathdown,1,D16A/0967,725175,726640,19,0,0,N,19,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+212,Dun Laoghaire-Rathdown,1,D17A/0506,721609,729089,15,0,0,N,15,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+213,Dun Laoghaire-Rathdown,1,D17A/0520,721339,723463,15,0,0,N,15,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+214,Dun Laoghaire-Rathdown,1,D17A/0606,719502,727691,60,0,0,N,60,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+215,Dun Laoghaire-Rathdown,1,D17A/0793,720642,722617,49,0,0,N,49,http://planning.dlrcoco.ie/swiftlg/apas/run/wphappcriteria.display
+216,Fingal County Council,1,F05A/0323,718986,763558,134,97,21,Y,16,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+217,Fingal County Council,1,F07A/1249,718467,763597,953,5,73,Y,875,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+218,Fingal County Council,1,F11A/0079/E1,718580,763872,18,0,18,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+219,Fingal County Council,1,F04A/0191,720647,762549,431,216,65,Y,150,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+220,Fingal County Council,1,F03A/1162/E3,723666,740736,478,419,59,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+221,Fingal County Council,1,F15A/0438,724472,740061,25,0,17,Y,8,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+222,Fingal County Council,1,F07A/0394/E1,721289,741237,246,151,95,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+223,Fingal County Council,1,F17A/0184,714950,753988,57,0,0,Y,57,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+224,Fingal County Council,1,F15A/0093,720989,741412,43,0,8,Y,35,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+225,Fingal County Council,1,F06A/0347/E2,715534,746305,194,81,23,Y,90,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+226,Fingal County Council,1,F05A/1869/E1,711533,739604,271,235,17,Y,19,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+227,Fingal County Council,1,F01A/0868/E2,704446,739910,320,297,23,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+228,Fingal County Council,1,F02A/1255/E1,710244,737289,2375,641,69,Y,1665,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+229,Fingal County Council,1,FW14A/0050,709061,737920,33,8,16,Y,9,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+230,Fingal County Council,1,F08A/1355/E2,707549,736055,14,0,13,Y,1,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+231,Fingal County Council,1,FW14A/0042,705273,738615,124,0,8,Y,116,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+232,Fingal County Council,1,FW15A/0103,705213,738108,33,0,33,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+233,Fingal County Council,1,FW16A/0050,707758,739356,28,0,0,Y,28,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+234,Fingal County Council,1,F06A/1109/E2,708035,737184,148,147,1,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+235,Fingal County Council,1,F06A/1597/E1,707331,736482,119,118,1,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+236,Fingal County Council,1,FW14A/0066,707584,736618,211,186,25,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+237,Fingal County Council,1,FW16A/0093,707534,736560,179,13,155,Y,11,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+238,Fingal County Council,1,F11A/0173,723573,751050,100,5,54,Y,41,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+239,Fingal County Council,1,F13A/0282,722879,750462,15,11,4,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+240,Fingal County Council,1,F15A/0551,723067,750289,31,0,19,Y,12,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+241,Fingal County Council,1,F16A/0542,723258,751077,31,0,30,Y,1,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+242,Fingal County Council,1,F04A/1163/E2,722652,750096,43,0,43,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+243,Fingal County Council,1,F12A/0086/E1,721999,750496,139,123,16,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+244,Fingal County Council,1,F16A/0535,722220,750769,286,0,18,Y,268,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+245,Fingal County Council,1,F10A/0338/E1,719356,745089,171,35,80,Y,56,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+246,Fingal County Council,1,F16A/0227,719915,745332,15,0,6,Y,9,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+247,Fingal County Council,1,F06A/1780,707294,758727,13,5,8,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+248,Fingal County Council,1,FW14A/0021,703603,738914,157,132,25,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+249,Fingal County Council,1,FW15A/0032,703268,739089,127,20,54,Y,53,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+250,Fingal County Council,1,FW15A/0161,704111,738934,206,200,6,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+251,Fingal County Council,1,FW16A/0030,703805,739001,73,0,24,Y,49,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+252,Fingal County Council,1,FW16A/0117,704056,739011,47,15,32,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+253,Fingal County Council,1,FW16A/0123,704060,738630,213,13,186,Y,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+254,Fingal County Council,1,F13A/0002,729173,737925,33,9,11,Y,13,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+255,Fingal County Council,1,FW14A/0108,708222,742825,455,128,62,Y,265,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+256,Fingal County Council,1,F06A/1952,706631,740503,25,15,10,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+257,Fingal County Council,1,FW10A/0155,703008,736039,71,38,21,Y,12,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+258,Fingal County Council,1,F06A/1875/E1,708529,737994,17,8,1,Y,8,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+259,Fingal County Council,1,F06A/0608,721664,753887,138,88,48,Y,2,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+260,Fingal County Council,1,F15A/0197,721900,757061,38,0,38,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+261,Fingal County Council,1,F00A/1009/E1,723887,745378,524,451,36,Y,37,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+262,Fingal County Council,1,F09A/0015/E1,723617,745031,134,60,74,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+263,Fingal County Council,1,F16A/0583,722519,746313,22,0,0,Y,22,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+264,Fingal County Council,1,F06A/0423/E1,720428,746125,17,16,1,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+265,Fingal County Council,1,F11A/0386/E1,721860,744416,76,54,19,Y,3,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+266,Fingal County Council,1,F13A/0459,722193,744845,56,0,6,Y,50,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+267,Fingal County Council,1,F14A/0483,720905,744909,34,4,24,Y,6,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+268,Fingal County Council,1,F14A/0173,716638,741012,18,0,18,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+269,Fingal County Council,1,F15A/0552,713210,740968,17,0,17,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+270,Fingal County Council,1,F13A/0248,723042,742265,101,75,26,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+271,Fingal County Council,1,F15A/0258,723019,742573,113,0,35,Y,78,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+272,Fingal County Council,1,F16A/0024,726080,754506,35,0,21,Y,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+273,Fingal County Council,1,F15A/0054,715419,740536,62,0,62,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+274,Fingal County Council,1,F15A/0440,715930,740879,379,0,41,Y,338,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+275,Fingal County Council,1,F05A/1818/E1,723196,761004,357,235,80,Y,42,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+276,Fingal County Council,1,F11A/0309/E1,725127,759331,103,63,34,Y,6,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+277,Fingal County Council,1,F14A/0218,718593,747236,28,11,14,Y,3,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+278,Fingal County Council,1,F15A/0055,719581,746081,31,0,31,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+279,Fingal County Council,1,F15A/0132,718948,746011,18,17,1,Y,0,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+280,Fingal County Council,1,F15A/0279,719483,746253,55,0,6,Y,49,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+281,Fingal County Council,1,F11A/0436/E1,716674,748497,243,226,3,Y,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+282,Fingal County Council,1,F11A/0473/E1,716408,748581,222,2,0,Y,220,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+283,Fingal County Council,1,F15A/0390,716832,748770,181,32,124,Y,25,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+284,Fingal County Council,1,F14A/0365,716155,745855,173,98,71,Y,4,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+285,Fingal County Council,1,F07A/0770/E1,719204,764126,14,0,0,N,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+286,Fingal County Council,1,F08A/0181/E1,719486,763434,103,0,0,N,103,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+287,Fingal County Council,1,F08A/1152/E1,720197,764039,14,0,0,N,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+288,Fingal County Council,1,F08A/1329,718039,763901,531,0,0,N,531,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+289,Fingal County Council,1,F11A/0290,723500,740887,371,0,0,N,371,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+290,Fingal County Council,1,F16A/0412,723279,740669,546,0,0,N,546,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+291,Fingal County Council,1,F16A/0541 ,725454,739596,21,0,0,N,21,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+292,Fingal County Council,1,F14A/0488,720340,760843,42,0,0,N,42,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+293,Fingal County Council,1,F16A/0152,720041,743397,46,0,0,N,46,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+294,Fingal County Council,1,F15A/0609 ,720736,741211,176,0,0,N,176,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+295,Fingal County Council,1,FW09A/0087/E1,709024,737169,33,0,0,N,33,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+296,Fingal County Council,1,FW16A/0084,704459,738960,28,0,0,N,28,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+297,Fingal County Council,1,FW16A/0176 ,705067,738311,96,0,0,N,96,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+298,Fingal County Council,1,FW15A/0174,706374,737620,76,0,0,N,76,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+299,Fingal County Council,1,F15A/0456,723252,750605,43,0,0,N,43,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+300,Fingal County Council,1,F16A/0268 ,722571,750098,45,0,0,N,45,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+301,Fingal County Council,1,F16A/0605,722507,750097,31,0,0,N,31,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+302,Fingal County Council,1,F17A/0113 ,722558,749556,251,0,0,N,251,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+303,Fingal County Council,1,FW17A/0066,711435,739255,44,0,0,N,44,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+304,Fingal County Council,1,F17A/0692,707240,758687,11,0,0,N,11,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+305,Fingal County Council,1,FW17A/0139,703807,739051,26,0,0,N,26,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+306,Fingal County Council,1,F14A/0108,728757,739161,22,0,0,N,22,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+307,Fingal County Council,1,F15A/0303,726256,739159,78,0,0,N,78,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+308,Fingal County Council,1,F11A/0028/E1,727754,739413,200,0,0,N,200,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+309,Fingal County Council,1,FW13A/0088,707598,742802,172,0,0,N,172,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+310,Fingal County Council,1,FW15A/0009,708282,742612,183,0,0,N,183,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+311,Fingal County Council,1,F16A/0464,721722,743006,100,0,0,N,100,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+312,Fingal County Council,1,F16A/0511,721435,743132,82,0,0,N,82,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+313,Fingal County Council,1,F15A/0111,721905,754530,17,0,0,N,17,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+314,Fingal County Council,1,F15A/0565,721978,754370,148,0,0,N,148,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+315,Fingal County Council,1,F16A/0577,720934,754190,51,0,0,N,51,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+316,Fingal County Council,1,F14A/0106,723066,745340,46,0,0,N,46,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+317,Fingal County Council,1,F13A/0443,720943,744643,22,0,0,N,22,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+318,Fingal County Council,1,F13A/0460,722047,744483,80,0,0,N,80,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+319,Fingal County Council,1,F17A/0573,721180,744620,13,0,0,N,13,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+320,Fingal County Council,1,F17A/0215,712713,740646,222,0,0,N,222,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+321,Fingal County Council,1,FW16A/0126,706338,740161,14,0,0,N,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+322,Fingal County Council,1,FW17A/0048,706685,740204,17,0,0,N,17,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+323,Fingal County Council,1,F17A/0357,711535,754270,14,0,0,N,14,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+324,Fingal County Council,1,FW15A/0145,706490,737787,143,0,0,N,143,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+325,Fingal County Council,1,F09A/0381/E1,722831,742431,56,0,0,N,56,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+326,Fingal County Council,1,F14A/0132,722692,741939,270,0,0,N,270,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+327,Fingal County Council,1,SHD002/17,723211,742383,150,0,0,N,150,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+328,Fingal County Council,1,F14A/0274,713279,750181,17,0,0,N,17,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+329,Fingal County Council,1,F16A/0148,725940,755134,22,0,0,N,22,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+330,Fingal County Council,1,F16A/0221,725874,754586,129,0,0,N,129,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+331,Fingal County Council,1,F17A/0391 ,725206,754136,20,0,0,N,20,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+332,Fingal County Council,1,F06A/1481/E1,717098,740177,35,0,0,N,35,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+333,Fingal County Council,1,F08A/0578/E1,715413,740786,37,0,0,N,37,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+334,Fingal County Council,1,F08A/0884/E1,718251,746786,32,0,0,N,32,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+335,Fingal County Council,1,F08A/1057/E1,718334,746252,189,0,0,N,189,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+336,Fingal County Council,1,F15A/0183,716211,748040,248,0,0,N,248,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+337,Fingal County Council,1,F16A/0505,716035,747884,215,0,0,N,215,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+338,Fingal County Council,1,F17A/0599,716053,745538,17,0,0,N,17,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+339,Fingal County Council,1,FW16A/0079,708597,738312,36,0,0,N,36,http://planning.fingalcoco.ie/swiftlg/apas/run/wphappcriteria.display
+340,South Dublin County Council,1,SD13A/0263,702162,726414,16,0,12,Y,4,http://www.sdublincoco.ie/index.aspx?pageid=144
+341,South Dublin County Council,1,SD14A/0066,713015,726252,23,9,14,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+342,South Dublin County Council,1,SD14A/0180,710555,725567,137,127,8,Y,2,http://www.sdublincoco.ie/index.aspx?pageid=144
+343,South Dublin County Council,1,SD15A/0012,705935,735140,102,62,40,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+344,South Dublin County Council,1,SD15A/0036,712919,728860,16,0,12,Y,4,http://www.sdublincoco.ie/index.aspx?pageid=144
+345,South Dublin County Council,1,SD15A/0150,711206,725631,74,8,14,Y,52,http://www.sdublincoco.ie/index.aspx?pageid=144
+346,South Dublin County Council,1,SD16A/0157,709912,729413,45,0,3,Y,42,http://www.sdublincoco.ie/index.aspx?pageid=144
+347,South Dublin County Council,1,SDZ16A/0005,702920,733989,246,0,96,Y,150,http://www.sdublincoco.ie/index.aspx?pageid=144
+348,South Dublin County Council,1,"SD05A/0274,SD07A/0683,SD05A/0274/EP,SD08A/0581,SD15A/0056,SD15A/0057,SD16A/0448,SD17A/0091,SD17A/0187",703846,732812,67,42,23,Y,2,http://www.sdublincoco.ie/index.aspx?pageid=144
+349,South Dublin County Council,1,"SD11A/0144,SD14A/0107",712597,728544,16,4,10,Y,2,http://www.sdublincoco.ie/index.aspx?pageid=144
+350,South Dublin County Council,1,"SD12A/0168,SD15A/0010,SD15A/0181,SD17A/0300",707974,725715,284,212,28,Y,44,http://www.sdublincoco.ie/index.aspx?pageid=144
+351,South Dublin County Council,1,"SD13A/0249,SD15A/0050,SD16A/0133",701418,726642,26,24,2,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+352,South Dublin County Council,1,"SD14A/0121,SD15A/0095,SD16A/0297",704685,727404,236,80,70,Y,86,http://www.sdublincoco.ie/index.aspx?pageid=144
+353,South Dublin County Council,1,"SD14A/0222,SD17A/0132,SD17A/0355",712367,726210,175,0,137,Y,38,http://www.sdublincoco.ie/index.aspx?pageid=144
+354,South Dublin County Council,1,"SD14A/0280,SD17A/0398",714338,726954,30,11,18,Y,1,http://www.sdublincoco.ie/index.aspx?pageid=144
+355,South Dublin County Council,1,"SD15A/0005,SD17A/0260",711077,729930,61,7,48,Y,6,http://www.sdublincoco.ie/index.aspx?pageid=144
+356,South Dublin County Council,1,"SD15A/0017,SD16A/0355,SD16A/0384,SD17A/0434",712982,726633,319,124,47,Y,148,http://www.sdublincoco.ie/index.aspx?pageid=144
+357,South Dublin County Council,1,"SD15A/0127,SD16A/0266,SD17A/0054",705507,727800,382,45,30,Y,307,http://www.sdublincoco.ie/index.aspx?pageid=144
+358,South Dublin County Council,1,"SD15A/0192,SD17A/0171",706841,732913,67,50,17,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+359,South Dublin County Council,1,"SD15A/0193,SD17A/0288",700203,729015,74,22,12,Y,40,http://www.sdublincoco.ie/index.aspx?pageid=144
+360,South Dublin County Council,1,"SD15A/0206,SD17A/0138",705526,728761,59,53,6,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+361,South Dublin County Council,1,"SD16A/0229,SD17A/0101,SD17A/0111",701129,726339,114,46,36,Y,32,http://www.sdublincoco.ie/index.aspx?pageid=144
+362,South Dublin County Council,1,"SDZ10A/0001,SDZ13A/0005,SDZ16A/0004,SDZ16A/0006,SDZ17A/0005",702057,733122,177,150,6,Y,21,http://www.sdublincoco.ie/index.aspx?pageid=144
+363,South Dublin County Council,1,"SDZ16A/0003,SDZ17A/0001",702197,734238,267,90,177,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+364,South Dublin County Council,1,"SDZ17A/0002,SDZ18A/0001",702016,733594,135,0,135,Y,0,http://www.sdublincoco.ie/index.aspx?pageid=144
+365,South Dublin County Council,1,SD07A/0931/EP,709076,730082,24,0,0,N,24,http://www.sdublincoco.ie/index.aspx?pageid=144
+366,South Dublin County Council,1,SD09A/0021/EP,708189,735243,102,0,0,N,102,http://www.sdublincoco.ie/index.aspx?pageid=144
+367,South Dublin County Council,1,SD13A/0221,703316,726982,40,0,0,N,40,http://www.sdublincoco.ie/index.aspx?pageid=144
+368,South Dublin County Council,1,SD14A/0183,710534,727906,13,0,0,N,13,http://www.sdublincoco.ie/index.aspx?pageid=144
+369,South Dublin County Council,1,SD15A/0027,711323,729668,12,0,0,N,12,http://www.sdublincoco.ie/index.aspx?pageid=144
+370,South Dublin County Council,1,SD15A/0105,707483,734100,40,0,0,N,40,http://www.sdublincoco.ie/index.aspx?pageid=144
+371,South Dublin County Council,1,SD16A/0060,710765,729861,26,0,0,N,26,http://www.sdublincoco.ie/index.aspx?pageid=144
+372,South Dublin County Council,1,SD16A/0078,704974,727331,128,0,0,N,128,http://www.sdublincoco.ie/index.aspx?pageid=144
+373,South Dublin County Council,1,SD16A/0117,700475,728836,48,0,0,N,48,http://www.sdublincoco.ie/index.aspx?pageid=144
+374,South Dublin County Council,1,SD16A/0165,713642,729162,16,0,0,N,16,http://www.sdublincoco.ie/index.aspx?pageid=144
+375,South Dublin County Council,1,SD16A/0171,702075,726750,12,0,0,N,12,http://www.sdublincoco.ie/index.aspx?pageid=144
+376,South Dublin County Council,1,SD16A/0210,705157,727558,111,0,0,N,111,http://www.sdublincoco.ie/index.aspx?pageid=144
+377,South Dublin County Council,1,SD16A/0249,707163,734246,27,0,0,N,27,http://www.sdublincoco.ie/index.aspx?pageid=144
+378,South Dublin County Council,1,SD16A/0306,703055,733415,94,0,0,N,94,http://www.sdublincoco.ie/index.aspx?pageid=144
+379,South Dublin County Council,1,SD16A/0346,707726,725850,62,0,0,N,62,http://www.sdublincoco.ie/index.aspx?pageid=144
+380,South Dublin County Council,1,SD16A/0441,704036,727913,84,0,0,N,84,http://www.sdublincoco.ie/index.aspx?pageid=144
+381,South Dublin County Council,1,SD16A/0450,706763,731519,10,0,0,N,10,http://www.sdublincoco.ie/index.aspx?pageid=144
+382,South Dublin County Council,1,SD17A/0010,699805,728881,27,0,0,N,27,http://www.sdublincoco.ie/index.aspx?pageid=144
+383,South Dublin County Council,1,SD17A/0030,705295,727246,13,0,0,N,13,http://www.sdublincoco.ie/index.aspx?pageid=144
+384,South Dublin County Council,1,SD17A/0066,710189,725931,10,0,0,N,10,http://www.sdublincoco.ie/index.aspx?pageid=144
+385,South Dublin County Council,1,SD17A/0090,703386,726630,24,0,0,N,24,http://www.sdublincoco.ie/index.aspx?pageid=144
+386,South Dublin County Council,1,SD17A/0121,710208,725664,133,0,0,N,133,http://www.sdublincoco.ie/index.aspx?pageid=144
+387,South Dublin County Council,1,SD17A/0412,708271,727752,19,0,0,N,19,http://www.sdublincoco.ie/index.aspx?pageid=144
+388,South Dublin County Council,1,SDZ17A/0006,701598,734301,169,0,0,N,169,http://www.sdublincoco.ie/index.aspx?pageid=144
+389,South Dublin County Council,1,SDZ18A/0002,702113,734100,268,0,0,N,268,http://www.sdublincoco.ie/index.aspx?pageid=144
+390,South Dublin County Council,1,TC06S.TC0013,704455,727877,524,0,0,N,524,http://www.sdublincoco.ie/index.aspx?pageid=144
+391,South Dublin County Council,1,"SD09A/0016,SD10A/0041,SD09A/0318",712360,726079,122,0,0,N,122,http://www.sdublincoco.ie/index.aspx?pageid=144
+392,South Dublin County Council,1,"SD11A/0189,SD13A/0268",705137,728382,60,0,0,N,60,http://www.sdublincoco.ie/index.aspx?pageid=144
